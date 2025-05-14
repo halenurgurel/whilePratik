@@ -29,7 +29,7 @@ while (sayac1 <=20) //20'ye kadar döngüde kalması gerekiyor.
 
 
 Console.WriteLine(" ");
-
+Console.WriteLine("------------------------------------------------------------------------------------------------");
 Console.WriteLine(" ");
 
 
@@ -49,7 +49,7 @@ while (sayac2 <=20) //20'ye kadar devam etmesini istediğim için 20 küçük e�
 }
 
 Console.WriteLine(" ");
-
+Console.WriteLine("------------------------------------------------------------------------------------------------");
 Console.WriteLine(" ");
 
 
@@ -68,7 +68,7 @@ Console.WriteLine("50 ile 150 arasındaki sayıların toplamı: " + toplam); // 
 
 
 Console.WriteLine(" ");
-
+Console.WriteLine("------------------------------------------------------------------------------------------------");
 Console.WriteLine(" ");
 
 
